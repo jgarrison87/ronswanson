@@ -63,3 +63,9 @@ button:hover {
   color: #000;
   background: #f5f50a;
 }
+
+@media (max-width: 800px) {
+  h1 {
+    margin-top: 275px;
+  }
+}
